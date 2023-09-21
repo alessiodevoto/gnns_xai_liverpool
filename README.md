@@ -11,4 +11,8 @@ This repo contains the Colab Notebooks for the lab sessions of the summer school
 
 For additional info about the labs, please check the [school website](https://indico.ph.liv.ac.uk/event/1332/) or contact the [author](https://alessiodevoto.github.io).
 
+### Updated
+
+- 21/09/2023: Uploaded solutions for both notebooks in `notebooks`
+
 
